@@ -1,0 +1,7 @@
+# Local credentials and cluster files
+kubeconfig
+admin.conf
+*.kubeconfig
+*.key
+*.pem
+.env
